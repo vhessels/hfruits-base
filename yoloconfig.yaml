@@ -1,0 +1,15 @@
+path: /path_to/hfruits-base
+train: /path_to/hfruits-base/images/train
+val: /path_to/hfruits-base/images/val
+test: /path_to/hfruits-base/images/test
+
+# Classes
+names:
+  0: Apple 
+  1: Banana
+  2: Kiwi
+  3: Lemon
+  4: Mango
+  5: Orange
+  6: Pear
+  7: Persimmon
