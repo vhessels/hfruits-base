@@ -1,7 +1,5 @@
 path: /path_to/hfruits-base
-train: /path_to/hfruits-base/images/train
-val: /path_to/hfruits-base/images/val
-test: /path_to/hfruits-base/images/test
+train: /path_to/hfruits-base/images
 
 # Classes
 names:
